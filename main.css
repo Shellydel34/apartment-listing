@@ -27,7 +27,7 @@
         rgba(0, 0, 0, 0.84),
         rgba(0, 0, 0, 0)
       ),
-      url("/assets/bg.png");
+      url("./assets/bg.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
